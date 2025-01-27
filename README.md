@@ -1,14 +1,26 @@
-- 👋 Hi, I’m @Shiviipatidar25
-- 👀 I’m interested in .to be developer..
-- 🌱 I’m currently learning ..javascript..
-- 💞️ I’m looking to collaborate on .website building projects..
-- 📫 How to reach me .......
+👋 Hello, I'm Shivani patidar
+
+
+Aspiring Web Developer passionate about building modern, responsive, and user-friendly web applications. With skills in front-end and back-end development, I am constantly learning and exploring new technologies to enhance my capabilities.
+
+🛠 Skills & Technologies
+Front-End Development: HTML, CSS, JavaScript, Tailwind CSS, React.js
+Back-End Development: Node.js, Express.js
+Databases: MongoDB, SQL
+Version Control: Git & GitHub
+Other Interests: Problem-solving, algorithm design, and exploring full-stack development
+
+🤝 Let’s Connect
+I'm always excited to connect with fellow developers and collaborate on projects!
 - Email-patidarshivani27@gmail.com
 - Linkedin-https://www.linkedin.com/in/shivani-patidar-82aa8a240
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-Shiviipatidar25/Shiviipatidar25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+🚀 About Me
+🌱 Currently exploring full-stack web development.
+💡 Interested in programming, problem-solving, and contributing to open-source.
+💼 Looking for opportunities to grow and make an impact as a developer.
+
+
+
